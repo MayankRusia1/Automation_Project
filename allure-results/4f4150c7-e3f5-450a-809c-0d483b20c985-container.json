@@ -1,0 +1,1 @@
+{"uuid":"4f4150c7-e3f5-450a-809c-0d483b20c985","name":"TS_003_CheckBoxes.TB_CB.setup","children":["7f0f7320-593a-4024-be80-1a13a79870f0"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719592154350,"stop":1719592163519}],"afters":[],"start":1719592154348,"stop":1719592163521}

@@ -1,0 +1,1 @@
+{"uuid":"635e714e-7ba4-4d3a-a9b6-b7df31bb6dba","name":"TS_007_WebTable.TC_WT.setup","children":["42c65dd0-2901-46ff-ae53-3c989f4081e6"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719655281643,"stop":1719655296027}],"afters":[],"start":1719655281640,"stop":1719655296028}

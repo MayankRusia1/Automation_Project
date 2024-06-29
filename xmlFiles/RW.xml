@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TS_015_resizable_window.TC_RW">
+      <methods>
+		  <include name="RW_002"></include>
+		  <include name="RW_003"></include>
+		  <include name="RW_004"></include>		  
+	  </methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

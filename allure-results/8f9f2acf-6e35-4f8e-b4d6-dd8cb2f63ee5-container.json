@@ -1,0 +1,1 @@
+{"uuid":"8f9f2acf-6e35-4f8e-b4d6-dd8cb2f63ee5","name":"TS_014_slider.TC_Slider.setup","children":["ce4c04d6-fca9-4d22-a899-915443b9c19b"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719669983714,"stop":1719669994359}],"afters":[],"start":1719669983712,"stop":1719669994359}

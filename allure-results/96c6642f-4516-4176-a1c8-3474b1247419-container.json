@@ -1,0 +1,1 @@
+{"uuid":"96c6642f-4516-4176-a1c8-3474b1247419","name":"TS_016_Frames.TC_FF.setup","children":["6d3db5b9-0815-4d09-8bcc-f0f662a3f898"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719679050780,"stop":1719679061204}],"afters":[],"start":1719679050779,"stop":1719679061206}

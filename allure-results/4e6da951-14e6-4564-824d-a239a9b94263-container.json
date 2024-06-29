@@ -1,0 +1,1 @@
+{"uuid":"4e6da951-14e6-4564-824d-a239a9b94263","name":"TS_002_RadioButtons.TC_RB.setup","children":["b32e2508-40c1-474d-82e7-5d403e6a7f6f"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719590120741,"stop":1719590131774}],"afters":[],"start":1719590120739,"stop":1719590131774}

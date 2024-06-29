@@ -1,0 +1,1 @@
+{"uuid":"909d5b3e-ed3f-451c-b0c7-e7c1fab47b81","name":"TS_006_Hyperlinks.TC_HL.setup","children":["1c713116-f54e-4bb1-95e6-1f8dd7b2fd1f"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719654631099,"stop":1719654643044}],"afters":[],"start":1719654631096,"stop":1719654643046}

@@ -1,0 +1,1 @@
+{"uuid":"899c1f9e-498f-4de0-a80c-98256b974a21","name":"TS_009_searchbox.TC_SB.setup","children":["20c96490-c771-4420-9e35-207327f28e0d"],"description":"","befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1719657204089,"stop":1719657211657}],"afters":[],"start":1719657204089,"stop":1719657211657}

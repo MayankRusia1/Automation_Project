@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TS_005_Colors_dropdown.TC_COLORDD">
+      
+       <methods>
+		  <include name="COLORDD_001"></include>
+		  <include name="COLORDD_002"></include>
+
+		  <include name="COLORDD_003"></include>
+		  <include name="COLORDD_005"></include>
+		  <include name="COLORDD_006"></include>
+
+	  </methods>
+      
+      
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
